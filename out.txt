@@ -1,0 +1,90 @@
+###Oven N:1; (980, ['prokat', 'prokat'])###
+    Series 1 of 1 oven
+        ('nagrev', 0, 222)
+        ('prokat', 222, 237)
+    Series 2 of 1 oven
+        ('nagrev', 237, 319)
+        ('prokat', 319, 334)
+    Series 3 of 1 oven
+        ('nagrev', 334, 634)
+        ('prokat', 754, 769)
+###Oven N:2; (1010, ['kovka'])###
+    Series 1 of 2 oven
+        ('nagrev', 0, 139)
+        ('kovka', 139, 159)
+        ('progrev goev', 159, 279)
+        ('kovka', 279, 294)
+    Series 2 of 2 oven
+        ('nagrev', 294, 526)
+        ('kovka', 646, 656)
+        ('progrev goev', 656, 776)
+        ('kovka', 776, 786)
+        ('progrev goev', 786, 906)
+        ('kovka', 906, 926)
+###Oven N:3; (1100, ['kovka', 'prokat'])###
+    Series 1 of 3 oven
+        ('nagrev', 0, 76)
+        ('kovka', 196, 211)
+    Series 2 of 3 oven
+        ('nagrev', 211, 382)
+        ('prokat', 502, 517)
+    Series 3 of 3 oven
+        ('nagrev', 517, 642)
+        ('prokat', 762, 777)
+###Oven N:4; (1030, ['kovka'])###
+    Series 1 of 4 oven
+        ('nagrev', 0, 207)
+        ('kovka', 207, 227)
+        ('progrev goev', 227, 347)
+        ('kovka', 347, 362)
+        ('progrev goev', 362, 482)
+        ('kovka', 482, 492)
+    Series 2 of 4 oven
+        ('nagrev', 492, 741)
+        ('kovka', 861, 881)
+        ('progrev goev', 881, 1001)
+        ('kovka', 1001, 1011)
+    Series 3 of 4 oven
+        ('nagrev', 1011, 1165)
+        ('kovka', 1285, 1305)
+###Oven N:5; (1130, ['prokat'])###
+    Series 1 of 5 oven
+        ('nagrev', 0, 123)
+        ('prokat', 243, 258)
+    Series 2 of 5 oven
+        ('nagrev', 258, 471)
+        ('prokat', 591, 606)
+    Series 3 of 5 oven
+        ('nagrev', 606, 651)
+        ('prokat', 771, 786)
+###Oven N:6; (1090, ['prokat'])###
+    Series 1 of 6 oven
+        ('nagrev', 0, 72)
+        ('prokat', 72, 87)
+    Series 2 of 6 oven
+        ('nagrev', 87, 332)
+        ('prokat', 452, 467)
+    Series 3 of 6 oven
+        ('nagrev', 467, 554)
+        ('prokat', 674, 689)
+###Oven N:7; (1020, ['otzhig'])###
+    Series 1 of 7 oven
+        ('nagrev', 0, 268)
+        ('otzhig', 268, 283)
+    Series 2 of 7 oven
+        ('nagrev', 283, 504)
+        ('otzhig', 504, 519)
+    Series 3 of 7 oven
+        ('nagrev', 519, 615)
+        ('otzhig', 735, 750)
+    Series 4 of 7 oven
+        ('nagrev', 750, 821)
+        ('otzhig', 941, 956)
+    Series 5 of 7 oven
+        ('nagrev', 956, 1018)
+        ('otzhig', 1138, 1153)
+    Series 6 of 7 oven
+        ('otzhig', 1273, 1288)
+    Series 7 of 7 oven
+        ('nagrev', 1288, 1384)
+        ('otzhig', 1384, 1399)

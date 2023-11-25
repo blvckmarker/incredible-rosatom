@@ -1,0 +1,493 @@
+{
+    "ovens": [
+        {
+            "start_temp": 980,
+            "working_temps": [
+                1040,
+                970,
+                1180,
+                1030,
+                980
+            ],
+            "operations": [
+                "prokat",
+                "prokat"
+            ]
+        },
+        {
+            "start_temp": 1010,
+            "working_temps": [
+                960,
+                1180,
+                1110,
+                1010
+            ],
+            "operations": [
+                "kovka"
+            ]
+        },
+        {
+            "start_temp": 1100,
+            "working_temps": [
+                1060,
+                1160,
+                1070,
+                1110,
+                950,
+                990,
+                1100
+            ],
+            "operations": [
+                "kovka",
+                "prokat"
+            ]
+        },
+        {
+            "start_temp": 1030,
+            "working_temps": [
+                1220,
+                1160,
+                1000,
+                1230,
+                1200,
+                1240,
+                1030
+            ],
+            "operations": [
+                "kovka"
+            ]
+        },
+        {
+            "start_temp": 1130,
+            "working_temps": [
+                1080,
+                1130,
+                1100
+            ],
+            "operations": [
+                "prokat"
+            ]
+        },
+        {
+            "start_temp": 1090,
+            "working_temps": [
+                1090,
+                1220,
+                1000,
+                1130,
+                1100,
+                1200,
+                1010,
+                1110,
+                1150
+            ],
+            "operations": [
+                "prokat"
+            ]
+        },
+        {
+            "start_temp": 1020,
+            "working_temps": [
+                960,
+                970,
+                1070,
+                1010,
+                1170,
+                1020,
+                990
+            ],
+            "operations": [
+                "otzhig"
+            ]
+        }
+    ],
+    "series": [
+        {
+            "temperature": 960,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 299
+                },
+                {
+                    "name": "otzhig",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 980,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 296
+                },
+                {
+                    "name": "kovka",
+                    "timing": 10
+                },
+                {
+                    "name": "kovka",
+                    "timing": 10
+                },
+                {
+                    "name": "kovka",
+                    "timing": 10
+                }
+            ]
+        },
+        {
+            "temperature": 1020,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 300
+                },
+                {
+                    "name": "prokat",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 990,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 125
+                },
+                {
+                    "name": "prokat",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1040,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 249
+                },
+                {
+                    "name": "kovka",
+                    "timing": 20
+                },
+                {
+                    "name": "kovka",
+                    "timing": 10
+                }
+            ]
+        },
+        {
+            "temperature": 1020,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 268
+                },
+                {
+                    "name": "otzhig",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 980,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 222
+                },
+                {
+                    "name": "prokat",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1020,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 221
+                },
+                {
+                    "name": "otzhig",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1070,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 71
+                },
+                {
+                    "name": "otzhig",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1000,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 232
+                },
+                {
+                    "name": "kovka",
+                    "timing": 10
+                },
+                {
+                    "name": "kovka",
+                    "timing": 10
+                },
+                {
+                    "name": "kovka",
+                    "timing": 20
+                }
+            ]
+        },
+        {
+            "temperature": 980,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 82
+                },
+                {
+                    "name": "prokat",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1040,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 213
+                },
+                {
+                    "name": "prokat",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1080,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 76
+                },
+                {
+                    "name": "kovka",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 980,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 96
+                },
+                {
+                    "name": "otzhig",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1080,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 245
+                },
+                {
+                    "name": "prokat",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 970,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 62
+                },
+                {
+                    "name": "otzhig",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1030,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 45
+                },
+                {
+                    "name": "prokat",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 950,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 87
+                },
+                {
+                    "name": "prokat",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 960,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 96
+                },
+                {
+                    "name": "otzhig",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1030,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 207
+                },
+                {
+                    "name": "kovka",
+                    "timing": 20
+                },
+                {
+                    "name": "kovka",
+                    "timing": 15
+                },
+                {
+                    "name": "kovka",
+                    "timing": 10
+                }
+            ]
+        },
+        {
+            "temperature": 1060,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 135
+                },
+                {
+                    "name": "kovka",
+                    "timing": 20
+                },
+                {
+                    "name": "kovka",
+                    "timing": 20
+                }
+            ]
+        },
+        {
+            "temperature": 1050,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 171
+                },
+                {
+                    "name": "prokat",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1060,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 123
+                },
+                {
+                    "name": "prokat",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1010,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 139
+                },
+                {
+                    "name": "kovka",
+                    "timing": 20
+                },
+                {
+                    "name": "kovka",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1090,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 154
+                },
+                {
+                    "name": "kovka",
+                    "timing": 20
+                }
+            ]
+        },
+        {
+            "temperature": 1090,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 72
+                },
+                {
+                    "name": "prokat",
+                    "timing": 15
+                }
+            ]
+        },
+        {
+            "temperature": 1090,
+            "operations": [
+                {
+                    "name": "nagrev",
+                    "timing": 107
+                },
+                {
+                    "name": "otzhig",
+                    "timing": 15
+                }
+            ]
+        }
+    ]
+}
