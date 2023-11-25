@@ -17,10 +17,10 @@ pip install matplotlib
 5) Вычисление нагруженности всех печей
 6) Визуализация решения
    
-<image src='../etc/Example.png'/>
+<image src='/etc/Example.png'/>
 
 *Под потоком подразумевается массив распределенных серий под i-ую печку
 
 # Пример работы
 
-<image src='../etc/visual.png'/>
+<image src='/etc/visual.png'/>
